@@ -1,0 +1,58 @@
+body {
+    background-color: #f7f1e3;
+}
+
+.heading {
+    text-align: center;
+}
+
+.intro {
+    display: flex;
+    flex-direction: row;
+    /* margin-right: 2%;
+    margin-left: 2%; */
+}
+
+.intro-image {
+    align-items: flex-end;
+    /* width: 60px;
+    height: 80px; */
+}
+
+img {
+    width: 40vw;
+    height: 40vh;
+}
+
+.intro-text {
+    align-items: flex-start;
+}
+
+.flex-spacing {
+    width: 10vw;
+}
+
+.second-part {
+    display: flex;
+    flex-direction: row;
+}
+
+.second-part-image {
+    align-items: flex-start;
+}
+
+.second-part-text {
+    align-items: flex-end;
+}
+
+.flex-box {
+    display: flex;
+}
+
+.margin-10px-left {
+    margin-left: 10px;
+}
+
+.gap {
+    margin: 10px;
+}
